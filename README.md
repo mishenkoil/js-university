@@ -1,4 +1,4 @@
-# js-university
+<h1># js-university</h1>
 Solved tasks from ITMO university course paradigms-2020
 
 
